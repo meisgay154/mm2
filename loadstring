@@ -1,1 +1,1 @@
-loadstring(game:Httpget("https://raw.githubusercontent.com/meisgay154/mm2/main/mm2"))()
+loadstring(game:Httpget('https://raw.githubusercontent.com/meisgay154/mm2/main/mm2'))()
